@@ -1,0 +1,18 @@
+{
+  "A_Grandma": {
+    "name": "李亦容",
+    "MAR_OPEN_THRESHOLD": 0.12,
+    "MAR_CLOSE_THRESHOLD": 0.05,
+    "MAX_CHEW_TIME": 6.0,
+    "CHEW_WAVE_THRESHOLD": 1.5,
+    "SWALLOW_STILL_THRESHOLD": 0.9
+  },
+  "B_Grandpa": {
+    "name": "張家豪",
+    "MAR_OPEN_THRESHOLD": 0.18,
+    "MAR_CLOSE_THRESHOLD": 0.07,
+    "MAX_CHEW_TIME": 4.0,
+    "CHEW_WAVE_THRESHOLD": 2.5,
+    "SWALLOW_STILL_THRESHOLD": 0.7
+  }
+}
